@@ -1,0 +1,11 @@
+TODO:
+- main menu
+- add more levels
+- pimp tileset
+- calibrate movement
+- calibrate explosion wall bounce
+- calibrate blinking animation
+- use @maky animation for explosion
+- make background (that can double as level progress bar)
+- make sludge monster?
+- optimize/rewrite detecting walls in explosion func (google or ask how contactless wall bounce should be implemented)
